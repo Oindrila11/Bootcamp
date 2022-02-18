@@ -1,5 +1,5 @@
  body {
-   backgrounf-color: Pink;
+   background-color: Pink;
 }
 
 h1 {
